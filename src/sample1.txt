@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+Java is fun to learn.
+I am building a file inspector.

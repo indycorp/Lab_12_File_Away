@@ -1,0 +1,5 @@
+Cybersecurity protects systems and data.
+
+Arrays and lists store information.
+Files let programs remember things.
+Loops repeat tasks.
